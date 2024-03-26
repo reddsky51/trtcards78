@@ -1,0 +1,202 @@
+[
+  {
+    "nombre": "El Loco",
+    "arcano": "Mayor",
+    "numero": 0,
+    "imagen": "url_de_la_imagen_del_loco",
+    "descripcion_positiva": "Libertad, espontaneidad, originalidad, aventura.",
+    "descripcion_negativa": "Despreocupación, negligencia, falta de dirección, distracción."
+  },
+  {
+    "nombre": "El Mago",
+    "arcano": "Mayor",
+    "numero": 1,
+    "imagen": "url_de_la_imagen_del_mago",
+    "descripcion_positiva": "Habilidad, astucia, concentración, acción.",
+    "descripcion_negativa": "Manipulación, indecisión, mal uso de habilidades."
+  },
+  {
+    "nombre": "La Suma Sacerdotisa",
+    "arcano": "Mayor",
+    "numero": 2,
+    "imagen": "url_de_la_imagen_de_la_suma_sacerdotisa",
+    "descripcion_positiva": "Intuición, sabiduría oculta, serenidad, profundidad.",
+    "descripcion_negativa": "Secretos, desconexión de la realidad, silencio excesivo."
+  },
+  {
+    "nombre": "La Emperatriz",
+    "arcano": "Mayor",
+    "numero": 3,
+    "imagen": "url_de_la_imagen_de_la_emperatriz",
+    "descripcion_positiva": "Fertilidad, abundancia, naturaleza, maternidad.",
+    "descripcion_negativa": "Dependencia, vacío, estancamiento, inseguridad."
+  },
+  {
+    "nombre": "El Emperador",
+    "arcano": "Mayor",
+    "numero": 4,
+    "imagen": "url_de_la_imagen_del_emperador",
+    "descripcion_positiva": "Autoridad, estructura, control, paternidad.",
+    "descripcion_negativa": "Tirania, rigidez, frialdad, dominación."
+  },
+  {
+    "nombre": "El Hierofante",
+    "arcano": "Mayor",
+    "numero": 5,
+    "imagen": "url_de_la_imagen_del_hierofante",
+    "descripcion_positiva": "Conocimiento espiritual, tradición, consejo, conformidad.",
+    "descripcion_negativa": "Dogmatismo, mediocridad, conformismo, limitaciones."
+  },
+  {
+    "nombre": "La Emperatriz",
+    "arcano": "Mayor",
+    "numero": 3,
+    "imagen": "url_de_la_imagen_de_la_emperatriz",
+    "descripcion_positiva": "Fertilidad, abundancia, naturaleza, maternidad.",
+    "descripcion_negativa": "Dependencia, vacío, estancamiento, inseguridad."
+  },
+  {
+    "nombre": "El Emperador",
+    "arcano": "Mayor",
+    "numero": 4,
+    "imagen": "url_de_la_imagen_del_emperador",
+    "descripcion_positiva": "Autoridad, estructura, control, paternidad.",
+    "descripcion_negativa": "Tirania, rigidez, frialdad, dominación."
+  },
+  {
+    "nombre": "El Hierofante",
+    "arcano": "Mayor",
+    "numero": 5,
+    "imagen": "url_de_la_imagen_del_hierofante",
+    "descripcion_positiva": "Conocimiento espiritual, tradición, consejo, conformidad.",
+    "descripcion_negativa": "Dogmatismo, mediocridad, conformismo, limitaciones."
+  },
+  {
+    "nombre": "Los Enamorados",
+    "arcano": "Mayor",
+    "numero": 6,
+    "imagen": "url_de_la_imagen_de_los_enamorados",
+    "descripcion_positiva": "Amor, armonía, elecciones, relaciones significativas.",
+    "descripcion_negativa": "Desbalance, indecisión, desunión, conflictos en relaciones."
+  },
+  {
+    "nombre": "El Carro",
+    "arcano": "Mayor",
+    "numero": 7,
+    "imagen": "url_de_la_imagen_del_carro",
+    "descripcion_positiva": "Éxito, determinación, control, viaje.",
+    "descripcion_negativa": "Falta de dirección, agresión, obstáculos, fracaso."
+  },
+  {
+    "nombre": "La Justicia",
+    "arcano": "Mayor",
+    "numero": 8,
+    "imagen": "url_de_la_imagen_de_la_justicia",
+    "descripcion_positiva": "Equidad, verdad, legalidad, integridad moral.",
+    "descripcion_negativa": "Injusticia, sesgo, resentimiento, deshonestidad."
+  },
+  {
+    "nombre": "El Ermitaño",
+    "arcano": "Mayor",
+    "numero": 9,
+    "imagen": "url_de_la_imagen_del_ermitano",
+    "descripcion_positiva": "Introspección, guía, sabiduría, reflexión.",
+    "descripcion_negativa": "Soledad, aislamiento, paranoia, reclusión."
+  },
+  {
+    "nombre": "La Rueda de la Fortuna",
+    "arcano": "Mayor",
+    "numero": 10,
+    "imagen": "url_de_la_imagen_de_la_rueda_de_la_fortuna",
+    "descripcion_positiva": "Cambio, ciclos, destino, movimiento.",
+    "descripcion_negativa": "Inestabilidad, falta de control, altibajos imprevistos."
+  },
+  {
+    "nombre": "La Fuerza",
+    "arcano": "Mayor",
+    "numero": 11,
+    "imagen": "url_de_la_imagen_de_la_fuerza",
+    "descripcion_positiva": "Coraje, determinación, fuerza interior, compasión.",
+    "descripcion_negativa": "Miedo, debilidad, abuso de poder, descontrol."
+  },
+  {
+    "nombre": "El Colgado",
+    "arcano": "Mayor",
+    "numero": 12,
+    "imagen": "url_de_la_imagen_del_colgado",
+    "descripcion_positiva": "Sacrificio, liberación, perspectiva, introspección.",
+    "descripcion_negativa": "Estancamiento, desinterés, desconexión, sacrificio inútil."
+  },
+  {
+    "nombre": "La Muerte",
+    "arcano": "Mayor",
+    "numero": 13,
+    "imagen": "url_de_la_imagen_de_la_muerte",
+    "descripcion_positiva": "Transformación, fin de un ciclo, renovación, transición.",
+    "descripcion_negativa": "Resistencia al cambio, finales dolorosos, pérdida, estancamiento."
+  },
+  {
+    "nombre": "La Templanza",
+    "arcano": "Mayor",
+    "numero": 14,
+    "imagen": "url_de_la_imagen_de_la_templanza",
+    "descripcion_positiva": "Equilibrio, moderación, paciencia, propósito.",
+    "descripcion_negativa": "Desequilibrio, excesos, falta de visión a largo plazo, conflictos internos."
+  },
+  {
+    "nombre": "El Diablo",
+    "arcano": "Mayor",
+    "numero": 15,
+    "imagen": "url_de_la_imagen_del_diablo",
+    "descripcion_positiva": "Liberación, autoconocimiento, exploración de lo prohibido.",
+    "descripcion_negativa": "Materialismo, esclavitud, obsesión, manipulación."
+  },
+  {
+    "nombre": "La Torre",
+    "arcano": "Mayor",
+    "numero": 16,
+    "imagen": "url_de_la_imagen_de_la_torre",
+    "descripcion_positiva": "Cambio radical, revelación, despertar, liberación de viejas formas.",
+    "descripcion_negativa": "Caos, destrucción, crisis abrupta, miedo."
+  },
+  {
+    "nombre": "La Estrella",
+    "arcano": "Mayor",
+    "numero": 17,
+    "imagen": "url_de_la_imagen_de_la_estrella",
+    "descripcion_positiva": "Esperanza, fe, inspiración, tranquilidad.",
+    "descripcion_negativa": "Desilusión, falta de fe, desesperanza, desánimo."
+  },
+  {
+    "nombre": "La Luna",
+    "arcano": "Mayor",
+    "numero": 18,
+    "imagen": "url_de_la_imagen_de_la_luna",
+    "descripcion_positiva": "Intuición, sueños, inconsciente, posibilidad.",
+    "descripcion_negativa": "Confusión, miedo, ilusión, ansiedad."
+  },
+  {
+    "nombre": "El Sol",
+    "arcano": "Mayor",
+    "numero": 19,
+    "imagen": "url_de_la_imagen_del_sol",
+    "descripcion_positiva": "Felicidad, éxito, optimismo, vitalidad.",
+    "descripcion_negativa": "Tristeza, negatividad, depresión, desilusión."
+  },
+  {
+    "nombre": "El Juicio",
+    "arcano": "Mayor",
+    "numero": 20,
+    "imagen": "url_de_la_imagen_del_juicio",
+    "descripcion_positiva": "Renacimiento, juicio, absolución, sentirse llamado.",
+    "descripcion_negativa": "Duda, autocrítica, ignorar el llamado, remordimiento."
+  },
+  {
+    "nombre": "El Mundo",
+    "arcano": "Mayor",
+    "numero": 21,
+    "imagen": "url_de_la_imagen_del_mundo",
+    "descripcion_positiva": "Completitud, realización, integración, viaje.",
+    "descripcion_negativa": "Incompletitud, no cerrar ciclos, limitaciones, falta de visión."
+  }
+]
