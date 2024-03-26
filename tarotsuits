@@ -1,0 +1,22 @@
+{
+  "Bastos": {
+    "elemento": "Fuego",
+    "aspectos": "Creatividad, acción, energía, ambición, crecimiento personal."
+    "aspectos_negativos": "Impulsividad, agresión, conflictos, arrogancia."
+  },
+  "Copas": {
+    "elemento": "Agua",
+    "aspectos": "Emociones, relaciones, conexión, intuición, amor."
+    "aspectos_negativos": "Emocionalidad excesiva, dependencia, melancolía, desilusión."
+  },
+  "Espadas": {
+    "elemento": "Aire",
+    "aspectos": "Intelecto, pensamiento, justicia, verdad, claridad mental."
+    "aspectos_negativos": "Pensamientos negativos, conflictos, crueldad, engaño."
+  },
+  "Oros": {
+    "elemento": "Tierra",
+    "aspectos": "Materialidad, seguridad, habilidad, éxito, logros físicos."
+    "aspectos_negativos": "Materialismo, avaricia, estancamiento, preocupación excesiva por lo material."
+  }
+}
