@@ -1,62 +1,58 @@
 {
   "1": {
     "significado": "Soledad e independencia. Energía del individualismo, liderazgo y comienzos."
+	"significado_negativo": "Egoísmo, soledad, dominación, dependencia."
   },
   "2": {
     "significado": "Emociones y sentimientos. Sensibilidad, compasión y necesidad de apoyo."
+	"significado_negativo": "Inseguridad, dependencia, pasividad, sumisión."
   },
   "3": {
     "significado": "Comunicación y creatividad. Determinación, sociabilidad y adaptación."
+	"significado_negativo": "Superficialidad, dispersión, exageración, falta de dirección."
   },
   "4": {
     "significado": "Desarrollo y construcción. Pragmatismo, practicidad, estabilidad, lógica y orden."
+	"significado_negativo": "Rigidez, aburrimiento, dogmatismo, obstinación."
   },
   "5": {
     "significado": "Integración del hombre. Símbolo de vida, energía vital, agilidad y libertad."
+	"significado_negativo": "Impaciencia, inconstancia, impulsividad, irresponsabilidad."
   },
   "6": {
     "significado": "Equilibrio entre el universo y el hombre. Hogar, belleza y amor."
+	"significado_negativo": "Ansiedad, celos, servilismo, sacrificio excesivo."
   },
   "7": {
     "significado": "Número sagrado. Conocimiento, fe, espiritualidad, energía mental y ciencia."
+	"significado_negativo": "Aislamiento, melancolía, reclusión, pereza."
   },
   "8": {
     "significado": "Dominio de cuerpo y mente. Símbolo del infinito, justicia, renacimiento y futuro."
+	"significado_negativo": "Materialismo, codicia, abuso de poder, agresividad."
   },
   "9": {
     "significado": "Amor universal. Idealismo, altruismo, nobleza y artes."
+	"significado_negativo": "Egocentrismo, falta de compromiso, pérdida, desilusión."
   },
   "10": {
     "significado": "Orden divino y plenitud. Representa un nuevo comienzo en un nivel superior."
+	"significado_negativo": "Tirania, exceso de control, inflexibilidad, arrogancia."
+  },
+	"11": {
+    "significado": "El número once en el tarot puede representar la justicia, el equilibrio y la verdad."
+	"significado_negativo": "Por otro lado, también puede indicar desequilibrio, prejuicio o falta de responsabilidad."
+  },
+  	"12": {
+    "significado": "El doce puede simbolizar la iluminación espiritual, el sacrificio y la redención."
+	"significado_negativo": "Negativamente, puede significar martirio, victimización o confusión."
+  },
+  	"13": {
+    "significado": "El trece es a menudo asociado con la transformación, la renovación y el cambio necesario."
+	"significado_negativo": "En su aspecto negativo, puede representar la muerte, el final abrupto o la resistencia al cambio."
+  },
+  	"14": {
+    "significado": "El catorce, como la carta de la Templanza, representa la moderación, la paciencia y el equilibrio."
+	"significado_negativo": "De manera negativa, puede indicar excesos, desbalance o falta de visión a largo plazo."
   }
-{
-  "1": {
-    "significado_negativo": "Egoísmo, soledad, dominación, dependencia."
-  },
-  "2": {
-    "significado_negativo": "Inseguridad, dependencia, pasividad, sumisión."
-  },
-  "3": {
-    "significado_negativo": "Superficialidad, dispersión, exageración, falta de dirección."
-  },
-  "4": {
-    "significado_negativo": "Rigidez, aburrimiento, dogmatismo, obstinación."
-  },
-  "5": {
-    "significado_negativo": "Impaciencia, inconstancia, impulsividad, irresponsabilidad."
-  },
-  "6": {
-    "significado_negativo": "Ansiedad, celos, servilismo, sacrificio excesivo."
-  },
-  "7": {
-    "significado_negativo": "Aislamiento, melancolía, reclusión, pereza."
-  },
-  "8": {
-    "significado_negativo": "Materialismo, codicia, abuso de poder, agresividad."
-  },
-  "9": {
-    "significado_negativo": "Egocentrismo, falta de compromiso, pérdida, desilusión."
-  },
-  "10": {
-    "significado_negativo": "Tirania, exceso de control, inflexibilidad, arrogancia."
-}
+  ]
