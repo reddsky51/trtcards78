@@ -55,25 +55,4 @@
     "significado": "El catorce, como la carta de la Templanza, representa la moderación, la paciencia y el equilibrio."
 	"significado_negativo": "De manera negativa, puede indicar excesos, desbalance o falta de visión a largo plazo."
   }
-  {
-  "tarot_cards_persons": [
-    {
-      "number": 11,
-      "person_meaning": "Representa a alguien que valora la equidad, la verdad y la integridad, buscando el balance y la rectitud en todas las acciones."
-    },
-    {
-      "number": 12,
-      "person_meaning": "Simboliza a una persona que se sacrifica por los demás o que está en una etapa de transición o contemplación, invirtiendo tiempo en su crecimiento espiritual o personal."
-    },
-    {
-      "number": 13,
-      "person_meaning": "Puede representar a alguien que está pasando por una transformación profunda, facilitando el cambio y la renovación."
-    },
-    {
-      "number": 14,
-      "person_meaning": "Como persona, representa a alguien que está buscando equilibrio y armonía, trabajando para mantener la estabilidad en su vida y en sus relaciones."
-    }
-  ]
-}
-
   ]

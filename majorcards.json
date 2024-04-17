@@ -48,30 +48,6 @@
     "descripcion_negativa": "Dogmatismo, mediocridad, conformismo, limitaciones."
   },
   {
-    "nombre": "La Emperatriz",
-    "arcano": "Mayor",
-    "numero": 3,
-    "imagen": "url_de_la_imagen_de_la_emperatriz",
-    "descripcion_positiva": "Fertilidad, abundancia, naturaleza, maternidad.",
-    "descripcion_negativa": "Dependencia, vacío, estancamiento, inseguridad."
-  },
-  {
-    "nombre": "El Emperador",
-    "arcano": "Mayor",
-    "numero": 4,
-    "imagen": "url_de_la_imagen_del_emperador",
-    "descripcion_positiva": "Autoridad, estructura, control, paternidad.",
-    "descripcion_negativa": "Tirania, rigidez, frialdad, dominación."
-  },
-  {
-    "nombre": "El Hierofante",
-    "arcano": "Mayor",
-    "numero": 5,
-    "imagen": "url_de_la_imagen_del_hierofante",
-    "descripcion_positiva": "Conocimiento espiritual, tradición, consejo, conformidad.",
-    "descripcion_negativa": "Dogmatismo, mediocridad, conformismo, limitaciones."
-  },
-  {
     "nombre": "Los Enamorados",
     "arcano": "Mayor",
     "numero": 6,
