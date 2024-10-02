@@ -1,0 +1,10 @@
+[
+    {"valor": -4, "color": "verde"},
+    {"valor": -3, "color": "verde-azul"},
+    {"valor": -2, "color": "azul"},
+    {"valor": -1, "color": "azul-rojo"},
+    {"valor": 1, "color": "rojo"},
+    {"valor": 2, "color": "rojo-amarillo"},
+    {"valor": 3, "color": "amarillo"},
+    {"valor": 4, "color": "amarillo-verde"}
+]
